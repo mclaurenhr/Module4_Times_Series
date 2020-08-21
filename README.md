@@ -7,7 +7,7 @@ In this project I wanted to create a Time Series Model to forecast home values i
 
 This project has been one of my favorite projects to work on to date because of my love for Time Series modeling. I am very interested in forecasting and predictive models that help solve business problems and assist in discovering the best solutions possible to maximizing shareholder's wealth. 
 
-I used a Zillow dataset from Kaggle that contained home values in the US from 1996 through 2018.
+I used a Zillow dataset from Kaggle that contained home values in the US from 1996 through 2018. I also split up my notebook into two separate ones. Part 1 has my model and Part 2 has my EDA. There is a geomap in Part 2 that was too big to upload so when you look at my notebook in Juypter Notebook, just remove the '#' to run the map on your computer.
 
 ## Data Description
 <summary style="font-size: 18px"> Data File Used</summary>
