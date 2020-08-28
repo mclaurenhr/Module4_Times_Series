@@ -1,4 +1,4 @@
-# ML Time Series Modeling (Forecasting)
+# Deep Learning Time Series Modeling (Forecasting)
 
 <img src='Mod4_Pics\pixasquare-4ojhpgKpS68-unsplash.jpg'/>
 
